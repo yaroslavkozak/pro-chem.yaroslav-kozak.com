@@ -1,0 +1,12 @@
+[2025-04-15 08:29:26 : INFO] - Cache for URL: https://prochem.local/?p=11516 has been purged, triggered by action: save_post 
+[2025-04-15 08:29:26 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Авточернетка" and URL: https://prochem.local/?p=11516, triggered by action: save_post 
+[2025-04-15 08:29:26 : INFO] - Cache for previous post (with URL: https://prochem.local/navishcho-provodyty-chystku-avtomobilia-voseny/) adjacent to post with id: 11516 has been purged, triggered by action: save_post 
+[2025-04-15 08:29:26 : INFO] - Cache for all archives page associated with post_type: post and Title: "Авточернетка" have been purged, triggered by action: save_post 
+[2025-04-15 08:43:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:43:56 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:44:56 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:44:58 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:46:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:46:43 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:51:29 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-04-15 08:51:53 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
